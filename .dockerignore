@@ -1,0 +1,14 @@
+.git
+.gitdata
+.agents
+.aws
+.codex
+AutoTestService/.venv
+AutoTestService/logs
+AutoTestService/run
+AutoTestService/config/*.secret
+AutoTestService/config/application-local.yaml
+AutoTestService/**/__pycache__
+AutoTestWebsite/frontend/node_modules
+AutoTestWebsite/frontend/dist
+AutoTestWebsite/frontend/.env*
