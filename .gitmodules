@@ -1,0 +1,8 @@
+[submodule "AutoTestService"]
+	path = AutoTestService
+	url = git@github.com:bulidWorld/AutoTestService.git
+	branch = main
+[submodule "AutoTestWebsite"]
+	path = AutoTestWebsite
+	url = git@github.com:bulidWorld/AutoTestWebsite.git
+	branch = main
